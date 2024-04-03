@@ -1,0 +1,1 @@
+实现了CART分类树和ID3决策树，前者在泰坦尼克测试集能达到95%左右的精度，后者可通过投票达到类似的精度。主要代码在trees.py和trees_cart.py里面。测试逻辑见test.py和test_cart.py。![image](https://github.com/Erutaner/ID3_CART/assets/97866124/2086e948-df87-4304-b843-cf7e1c47de5d)
